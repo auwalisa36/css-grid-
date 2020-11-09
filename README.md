@@ -19,7 +19,7 @@ https://github.com/auwalisa36/css-grid-Clone.git
 
 
 # Live Demo
-This is alive demo ( https://raw.githack.com/auwalisa36/Hotels.ng-Clone/home-branch/index.html )
+This is alive demo (https://raw.githack.com/auwalisa36/css-grid-/main/index.html )
 
 # Author
 Auwal Isa
